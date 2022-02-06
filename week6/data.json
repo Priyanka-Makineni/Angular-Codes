@@ -1,0 +1,45 @@
+{
+  "Books": [
+    {
+      "BookId": 1,
+      "BookName": "Wings of Fire",
+      "BookAuthor": "Kalam",
+      "ReadLater":[],
+      "LikedSection":[],
+      "UserChoice":[]
+    },
+    {
+      "BookId": 2,
+      "BookName": "Ramayanam",
+      "BookAuthor": "Valmiki",
+      "ReadLater":[],
+      "LikedSection":[],
+      "UserChoice":[]
+    },
+    
+    {
+      "BookId":3, 
+      "BookName":"Fear not be Strong",
+      "BookAuthor":"Vivekananda",
+      "ReadLater":[],
+      "LikedSection":[],
+      "UserChoice":[]
+    },
+  {
+    "BookId":4, 
+      "BookName":"Beloved",
+      "BookAuthor":"Morrison",
+      "ReadLater":[],
+      "LikedSection":[],
+      "UserChoice":[]
+  },
+  {
+    "BookId":5, 
+      "BookName":"The Alchemist",
+      "BookAuthor":"Paulo Coelho",
+      "ReadLater":[],
+      "LikedSection":[],
+      "UserChoice":[]
+  }
+  ]
+}
